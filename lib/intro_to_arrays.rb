@@ -14,4 +14,7 @@ end
 def third_element(x)
   x[2]
 end
-  
+
+def last_element(x)
+    x.last
+end
