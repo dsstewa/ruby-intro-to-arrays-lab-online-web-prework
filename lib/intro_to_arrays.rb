@@ -10,3 +10,8 @@ end
 def first_element(x)
   x.first
 end
+
+def third_element(x)
+  x[2]
+end
+  
